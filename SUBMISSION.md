@@ -45,17 +45,17 @@ This prototype is a review debugger, not a production traffic gateway. Scores ar
 ## Required links before submission
 
 - Live app: [https://queryshadow.ashleyjmayne.chatgpt.site](https://queryshadow.ashleyjmayne.chatgpt.site)
-- Repository: `PENDING PUBLIC REPOSITORY`
-- Public YouTube demo under 3 minutes: `PENDING RECORDING`
+- Repository: [https://github.com/ashleyjmayne-bit/queryshadow](https://github.com/ashleyjmayne-bit/queryshadow)
+- Public YouTube demo under 3 minutes: [https://youtu.be/EToqqR3OeuM](https://youtu.be/EToqqR3OeuM)
 - Codex `/feedback` session ID: `PENDING — obtain from the primary build task`
 
 ## Final checklist
 
-- [ ] App is publicly reachable and testable without payment.
-- [ ] Repository is public with MIT license, or private access is shared with the addresses in the official rules.
-- [ ] README includes setup, sample data, Codex collaboration, and key decisions.
-- [ ] Video is public, under 3:00, narrated, and shows the real product.
+- [x] App is publicly reachable and testable without payment.
+- [x] Repository is public with MIT license, or private access is shared with the addresses in the official rules.
+- [x] README includes setup, sample data, Codex collaboration, and key decisions.
+- [x] Video is public, under 3:00, narrated, and shows the real product.
 - [ ] `/feedback` ID is added to README and Devpost.
 - [ ] Exactly one track is selected.
 - [ ] Submission text is in English and reviewed in the entrant’s own voice.
-- [ ] All claims preserve the prototype’s stated limitations.
+- [x] All claims preserve the prototype’s stated limitations.
