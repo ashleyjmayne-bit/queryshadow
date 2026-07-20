@@ -46,7 +46,7 @@ This prototype is a review debugger, not a production traffic gateway. Scores ar
 
 - Live app: [https://queryshadow.ashleyjmayne.chatgpt.site](https://queryshadow.ashleyjmayne.chatgpt.site)
 - Repository: [https://github.com/ashleyjmayne-bit/queryshadow](https://github.com/ashleyjmayne-bit/queryshadow)
-- Public YouTube demo under 3 minutes: [https://youtu.be/EToqqR3OeuM](https://youtu.be/EToqqR3OeuM)
+- Public YouTube demo under 3 minutes: [https://youtu.be/UsNllG7mQE4](https://youtu.be/UsNllG7mQE4)
 - Codex `/feedback` session ID: `PENDING — obtain from the primary build task`
 
 ## Final checklist

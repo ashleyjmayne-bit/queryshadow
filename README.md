@@ -12,7 +12,7 @@ The no-login demo replays an agent trace, shows what a plausible observer could 
 
 **Live demo:** [queryshadow.ashleyjmayne.chatgpt.site](https://queryshadow.ashleyjmayne.chatgpt.site)  
 **Public source:** [github.com/ashleyjmayne-bit/queryshadow](https://github.com/ashleyjmayne-bit/queryshadow)  
-**Narrated demo:** [youtu.be/EToqqR3OeuM](https://youtu.be/EToqqR3OeuM)
+**Narrated demo:** [youtu.be/UsNllG7mQE4](https://youtu.be/UsNllG7mQE4)
 
 ![QueryShadow social preview](public/og.png)
 
