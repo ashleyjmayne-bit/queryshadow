@@ -146,7 +146,7 @@ Important decisions made during the collaboration:
 - Scores were framed as review priority rather than proof of surveillance or inference.
 - Synthetic scenarios were used to avoid demonstrating privacy tooling with real private data.
 
-**Required `/feedback` session ID:** `PENDING — run /feedback in the primary Codex build task before submission.`
+**Required `/feedback` session ID:** `019f7d95-4905-7150-947d-788faff49562`
 
 ## Limitations
 
