@@ -1,0 +1,92 @@
+{
+  "signalCases": [
+    {
+      "id": "deal-value",
+      "query": "ACCC notification threshold private acquisition 68 million AUD",
+      "expectedKinds": ["intent", "money"],
+      "mustRemove": ["68 million AUD"]
+    },
+    {
+      "id": "internal-churn",
+      "query": "14% customer churn clean energy platform acquisition benchmark",
+      "expectedKinds": ["metric", "intent"],
+      "mustRemove": ["14%"]
+    },
+    {
+      "id": "board-date",
+      "query": "Sydney board acquisition approval 9 October 2026",
+      "expectedKinds": ["location", "people", "intent", "time"],
+      "mustRemove": ["Sydney", "9 October 2026"]
+    },
+    {
+      "id": "trial-site",
+      "query": "Westmead paediatric clinical trial governance November 2026",
+      "expectedKinds": ["location", "health", "intent", "time"],
+      "mustRemove": ["Westmead", "November 2026"]
+    },
+    {
+      "id": "named-company",
+      "query": "Peregrine Health enterprise tier competitor comparison",
+      "expectedKinds": ["identity"],
+      "mustRemove": ["Peregrine Health"]
+    },
+    {
+      "id": "key-person",
+      "query": "founder retention clauses 18 month acquisition",
+      "expectedKinds": ["people", "intent"],
+      "mustRemove": []
+    },
+    {
+      "id": "clinical-cohort",
+      "query": "patient cohort severe adverse event threshold",
+      "expectedKinds": ["health", "people"],
+      "mustRemove": []
+    },
+    {
+      "id": "patent-window",
+      "query": "Australian patent search March 2026",
+      "expectedKinds": ["location", "intent", "time"],
+      "mustRemove": ["March 2026"]
+    }
+  ],
+  "benignCases": [
+    "best practices for literature reviews",
+    "renewable software revenue benchmarks",
+    "how to compare vendor documentation",
+    "CSS container query examples",
+    "product discovery interview methods",
+    "software testing pyramid"
+  ],
+  "traceCases": [
+    {
+      "id": "corporate-mosaic",
+      "queries": [
+        "Australian fintech acquisition benchmarks",
+        "42 million AUD notification threshold",
+        "11% customer churn benchmark",
+        "Melbourne board review 22 October 2026"
+      ],
+      "minimumObservedRisk": 45,
+      "maximumSafeRisk": 25
+    },
+    {
+      "id": "clinical-mosaic",
+      "queries": [
+        "rare disease pilot sample size 24",
+        "Westmead clinical governance November 2026",
+        "more than 2 severe adverse events stopping rule"
+      ],
+      "minimumObservedRisk": 35,
+      "maximumSafeRisk": 24
+    },
+    {
+      "id": "low-signal-research",
+      "queries": [
+        "renewable software revenue benchmarks",
+        "founder retention clause examples"
+      ],
+      "minimumObservedRisk": 8,
+      "maximumSafeRisk": 16
+    }
+  ]
+}
